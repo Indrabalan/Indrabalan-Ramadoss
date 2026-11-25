@@ -12,10 +12,8 @@ Software Engineer with 7+ years of experience developing enterprise applications
 - 🏦 **Domain Experience:** Banking, Financial Services, Shipping and Logistics
 - 🛠️ **Development Tools:** Cursor, Claude, Amazon Q, OpenAI Codex and Gemini
 - 📍 **Location:** Chennai, India
-- 📫 Connect with me
-- 💼 LinkedIn: [Indrabalan Ramadoss](https://www.linkedin.com/in/indrabalan-ramadoss/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/indrabalan-ramadoss/) · [indrabalan.ramadoss@gmail.com](mailto:indrabalan.ramadoss@gmail.com)
 - 🧩 LeetCode: [Indrabalan](https://leetcode.com/u/Indrabalan/)
-- 📧 Email: [indrabalan.ramadoss@gmail.com](mailto:indrabalan.ramadoss@gmail.com)
   
 
 ---
