@@ -13,7 +13,7 @@ Software Engineer with 7+ years of experience developing enterprise applications
 - 🛠️ **Development Tools:** Cursor, Claude, Amazon Q, OpenAI Codex and Gemini
 - 📍 **Location:** Chennai, India
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/indrabalan-ramadoss/) · [indrabalan.ramadoss@gmail.com](mailto:indrabalan.ramadoss@gmail.com)
-- 🧩 LeetCode: [Indrabalan](https://leetcode.com/u/Indrabalan/)
+- 🧩 LeetCode: [LeetCode](https://leetcode.com/u/Indrabalan/)
   
 
 ---
