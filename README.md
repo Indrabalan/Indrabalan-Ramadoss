@@ -83,9 +83,3 @@ Generative AI, Large Language Models (LLMs), and AI Engineering.
 ### 🧰 AI Development Tools
 
 `Cursor` `Claude` `Amazon Q` `OpenAI Codex` `Gemini`
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indrabalan&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrabalan&layout=compact&theme=github_dark)
