@@ -85,12 +85,10 @@ Software Engineer with 7+ years of experience developing enterprise applications
 
 ---
 
-<h2>📊 GitHub Statistics</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indrabalan&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrabalan&layout=compact&theme=github_dark)
+
