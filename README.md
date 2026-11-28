@@ -38,7 +38,7 @@ Generative AI, Large Language Models (LLMs), and AI Engineering.
 
 **Programming Languages**
 
-`Java 8/11/17` `SQL` `JavaScript` `TypeScript`
+`Java` `SQL` `JavaScript` `TypeScript`
 
 **Backend & Frameworks**
 
@@ -47,9 +47,10 @@ Generative AI, Large Language Models (LLMs), and AI Engineering.
 
 **Microservices & Integration**
 
-`Microservices` `Apache Kafka` `Apache Camel`
+`Microservices` `REST APIs` `Apache Kafka` `Apache Camel`
 `Netflix Eureka` `API Gateway` `OpenFeign`
-`Circuit Breaker`
+`RestTemplate` `WebClient` `Circuit Breaker`
+`Resilience4j` `Spring Cloud Config`
 
 **Security**
 
@@ -57,7 +58,7 @@ Generative AI, Large Language Models (LLMs), and AI Engineering.
 
 **Databases**
 
-`Oracle` `PostgreSQL` `MySQL` `MongoDB`
+`Oracle SQL` `PostgreSQL` `MySQL` `MongoDB`
 
 **Cloud & DevOps**
 
